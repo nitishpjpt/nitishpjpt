@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ?? I’m currently learning **JavaScript,React**
+-  I’m currently learning **JavaScript,React**
 
-- ????? All of my projects are available at [http://nitishpjpt.epizy.com/?i=1](http://nitishpjpt.epizy.com/?i=1)
+-  All of my projects are available at [http://nitishpjpt.epizy.com/?i=1](http://nitishpjpt.epizy.com/?i=1)
 
-- ?? Ask me about **HTML,CSS,JavaScript,bootstrap,Node.js**                                                                                                             
+-  Ask me about **HTML,CSS,JavaScript,bootstrap,Node.js**                                                                                                             
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
