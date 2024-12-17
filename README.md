@@ -59,10 +59,3 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishpjpt&show_icons=true&locale=en&layout=compact" alt="nitishpjpt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishpjpt&show_icons=true&locale=en" alt="nitishpjpt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishpjpt&" alt="nitishpjpt" /></p>
