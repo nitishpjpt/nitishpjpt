@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Hotel Managment Web App](https://appointment-booking-app-rho.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **nitishpjpt97@gmail.com**
@@ -16,7 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nitishpjpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitishpjpt" height="30" width="40" /></a>
-<a href="https://instagram.com/nitishprajaati98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitishprajaati98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitish-prajapati-87b604267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-prajapati-87b604267/" height="30" width="40" /></a>
+<a href="https://instagram.com/nitish_prajapati98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_prajapati98" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
